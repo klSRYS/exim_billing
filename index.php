@@ -52,7 +52,7 @@ body,td,th ,h3{
 
 <body>
   
-
+<img src="EXIM25.pngg" alt="Pineapple" width="300" height="300">
 <div class="pen-title">
   <h2>ຍີນດີຕ້ອນຮັບເຂົ້າສູ່ ໂປຣແກຣມ Billing</h2>
 </div>
